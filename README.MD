@@ -39,7 +39,7 @@ The Finance Backend is a robust and scalable backend application built using Nod
 
 ### Authentication
 
-- `POST /user/login` - User login.
+- `POST /users/login` - User login.
 - `POST /users` - User registration.
 
 ### Financial Records
